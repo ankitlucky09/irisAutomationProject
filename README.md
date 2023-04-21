@@ -1,4 +1,4 @@
-# irisAutomationProject
+# IRISAutomationProject
 
 **Issue:**
 The issue with the page https://osa-web.t-cg.co.uk/qatest is that its not displaying the News instead of its displaying some flaky data.
